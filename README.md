@@ -9,3 +9,5 @@ Notifies user when identification is successful and to turn to the next side (re
 Pushes cube data into solving algorithm
 Outputs the steps needed to solve said cube alongside Visualizer
 
+#Dependencies
+openCV
